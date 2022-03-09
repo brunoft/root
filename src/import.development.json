@@ -1,0 +1,9 @@
+{
+    "imports": {
+      "@mfe/root-config": "http://localhost:9000/mfe-root-config.js",
+      "@mfe/react": "http://localhost:8503/mfe-react.js",
+      "@mfe/react-routers": "http://localhost:8500/mfe-react-routers.js",
+      "@mfe/react-consig": "http://localhost:8501/mfe-react-consig.js",
+      "@mfe/react-imobiliario": "http://localhost:8502/mfe-react-imobiliario.js"
+    }
+}
